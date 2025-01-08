@@ -16,10 +16,10 @@ library(gridExtra)
 #################
 #Import Data
 ################
-songs <-read_delim("songs.csv")
-acoustics <-read_delim("acoustic_features.csv")
-pop <-read_delim("song_pop.csv")
-charts <-read_delim("song_chart.csv")
+songs <-read_delim("../Dataset/songs.csv")
+acoustics <-read_delim("../Dataset/acoustic_features.csv")
+pop <-read_delim("../Dataset/song_pop.csv")
+charts <-read_delim("../Dataset/song_chart.csv")
 
 
 
