@@ -109,7 +109,6 @@ colnames(Summary_stat) <-c("n", "Mean", "Median", "Minnimum", "Maximum", "Range"
 gt(Summary_stat, 
    rownames_to_stub = TRUE)
 
-
 (colnames(continuous_training))
 
 
