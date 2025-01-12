@@ -17,4 +17,5 @@ Songs that are longer, less acoustic, more danceable, more energetic, less instr
 Using ten selected metadata and audio features a mutlivariable linear regression model predicting song popularity was able to expalin 29% of the variation in song popularity. It was therefore concluded that multivariable lienar regression has low capacity for predicting song popualrity based on the data and song features presented in the MusicOSet dataset. 
 
 
-## Instructions for Running the R Code 
+## Instructions for Running the Code 
+Coding undertaken was conducted in R with the R script 
